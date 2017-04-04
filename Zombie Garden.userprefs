@@ -1,0 +1,31 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\StopButton.cs">
+    <Files>
+      <File FileName="Assets\Scripts\SetStartVolume.cs" Line="14" Column="16" />
+      <File FileName="Assets\Scripts\OptionsController.cs" Line="31" Column="25" />
+      <File FileName="Assets\Scripts\PlayerPrefManager.cs" Line="43" Column="42" />
+      <File FileName="Assets\Scripts\LevelManager.cs" Line="10" Column="41" />
+      <File FileName="Assets\Scripts\MusicManager.cs" Line="34" Column="1" />
+      <File FileName="Assets\Scripts\FadeInOut.cs" Line="26" Column="2" />
+      <File FileName="Assets\Scripts\Lizard.cs" Line="30" Column="12" />
+      <File FileName="Assets\Scripts\Fox.cs" Line="14" Column="27" />
+      <File FileName="Assets\Scripts\Health.cs" Line="16" Column="24" />
+      <File FileName="Assets\Scripts\Projectile.cs" Line="19" Column="23" />
+      <File FileName="Assets\Scripts\Shooter.cs" Line="46" Column="41" />
+      <File FileName="Assets\Scripts\Button.cs" Line="10" Column="14" />
+      <File FileName="Assets\Scripts\Spawner.cs" Line="18" Column="47" />
+      <File FileName="Assets\Scripts\Attacker.cs" Line="49" Column="3" />
+      <File FileName="Assets\Scripts\Defender.cs" Line="6" Column="28" />
+      <File FileName="Assets\Scripts\StarDisplay.cs" Line="19" Column="15" />
+      <File FileName="Assets\LoseCollider.cs" Line="19" Column="20" />
+      <File FileName="Assets\GameTimer.cs" Line="60" Column="17" />
+      <File FileName="Assets\Scripts\Stone.cs" Line="22" Column="4" />
+      <File FileName="Assets\Scripts\StopButton.cs" Line="14" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
